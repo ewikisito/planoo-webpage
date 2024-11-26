@@ -415,7 +415,6 @@ ul li {
   padding: 10px;
   gap: 16px;
   background-color: #babab9b6;
-  padding: 1rem;
 }
 
 .after {
@@ -451,7 +450,6 @@ label {
   border-radius: 24px;
   background-color: #ffa500;
 }
-
 
 .read-day {
   background-color: dodgerblue;
